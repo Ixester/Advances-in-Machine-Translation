@@ -38,5 +38,3 @@ Este notebook contém exemplos práticos e implementações de modelos de tradu�
 2. Execute cada célula do notebook sequencialmente, começando pela preparação dos dados e seguindo pelas implementações dos modelos Seq2Seq e Transformer.
 
 ---
-
-Este README oferece uma visão geral do conteúdo do notebook, destacando as implementações e as etapas principais do projeto. Se houver algo específico que você gostaria de adicionar ou ajustar, estou à disposição para ajudar!
